@@ -17,7 +17,7 @@
     vm.playersNames = {firstPlayerName:"", secondPlayerName:""};
     vm.required = "ture";
     vm.hideGameOver = true;
-    var backSidePic = "IMG_1193.jpg";
+    var backSidePic = "backside4.jpg";
     var firstTurnIndex = -1;
     var turns = 1;
     var randomPicArray, foundCouples,players,i;

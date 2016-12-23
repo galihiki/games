@@ -51,9 +51,9 @@
       vm.gameOverMsg = "Game Over!  ";
       firstTurnIndex = -1;
       turns = 1;
-      var picArray1 = ["IMG_2476.JPG","IMG_4275.JPG","IMG_5009.JPG","IMG_4857.JPG","IMG_3176.JPG","IMG_5009.JPG","IMG_4275.JPG"
-        ,"IMG_4860.JPG","IMG_4857.JPG","IMG_2476.JPG","IMG_3176.JPG","IMG_4860.JPG","IMG_5088.JPG","IMG_5088.JPG","IMG_5128.JPG"
-        ,"IMG_5128.JPG","IMG_5153.JPG","IMG_5153.JPG","IMG_5928.JPG","IMG_5928.JPG","IMG_1111.JPG","IMG_1111.JPG","IMG_2222.jpg"
+      var picArray1 = ["IMG_2476.JPG","IMG_4275.jpg","IMG_5009.JPG","IMG_4857.JPG","IMG_3176.jpg","IMG_5009.JPG","IMG_4275.jpg"
+        ,"IMG_4860.JPG","IMG_4857.JPG","IMG_2476.JPG","IMG_3176.jpg","IMG_4860.JPG","IMG_5088.JPG","IMG_5088.JPG","IMG_5128.JPG"
+        ,"IMG_5128.JPG","IMG_5153.JPG","IMG_5153.JPG","IMG_5928.jpg","IMG_5928.jpg","IMG_1111.JPG","IMG_1111.JPG","IMG_2222.jpg"
         ,"IMG_2222.jpg"];
       vm.picVarArray = [vm.pic0,vm.pic1,vm.pic2,vm.pic3,vm.pic4,vm.pic5,vm.pic6,vm.pic7,vm.pic8,vm.pic9,vm.pic10,vm.pic11,
         vm.pic12,vm.pic13,vm.pic14,vm.pic15,vm.pic16,vm.pic17,vm.pic18,vm.pic19,vm.pic20,vm.pic21,vm.pic22,vm.pic23];
